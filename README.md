@@ -2,6 +2,10 @@
 
 ![CBT Assistant](https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/brain.svg)
 
+### View Live
+
+You can view the live application at [CBT Assistant Live](https://sage-capybara-128c36.netlify.app).
+
 ## Overview
 
 CBT Assistant is a modern, AI-powered mental health support application that provides cognitive behavioral therapy assistance in a secure, user-friendly environment. Built with React, TypeScript, and Supabase, it offers real-time conversation capabilities with an AI trained in CBT techniques.
@@ -15,10 +19,6 @@ CBT Assistant is a modern, AI-powered mental health support application that pro
 - 🔐 **Data Privacy**: End-to-end data security with row-level security.
 - 💾 **Persistent Storage**: All conversations are automatically saved.
 - 🤖 **Smart AI**: Context-aware responses with CBT-focused guidance.
-
-## Screenshots
-
-_Add screenshots or a demo GIF here to showcase the application's interface and features._
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@ _Add screenshots or a demo GIF here to showcase the application's interface and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cbt-assistant.git
+   git clone https://github.com/1enMap/cbt-assistant.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -55,15 +55,8 @@ _Add screenshots or a demo GIF here to showcase the application's interface and 
    npm run dev
    ```
 
-## Deployment
 
-The application is deployed on Netlify and can be accessed at: [CBT Assistant](https://sage-capybara-128c36.netlify.app)
 
-To deploy your own version:
-1. Create a free Netlify account at [Netlify](https://www.netlify.com/).
-2. Connect your GitHub repository to Netlify.
-3. Configure the environment variables in the Netlify dashboard.
-4. Deploy your application with one click.
 
 ## Security
 
@@ -72,25 +65,6 @@ To deploy your own version:
 - Protected API endpoints.
 - Secure data storage ensuring end-to-end privacy.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Submit a Pull Request.
-
-Refer to the `CONTRIBUTING.md` file for more details.
 
 ## License
 
