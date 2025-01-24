@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brainGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1"/>
+      <stop offset="100%" style="stop-color:#A855F7"/>
+    </linearGradient>
+    <linearGradient id="brainGradient2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Left hemisphere -->
+  <path d="M7 14a3 3 0 101 5.83M4.264 15.605a4 4 0 01-.874-6.636M3.42 8.888A2.5 2.5 0 017 5.5" 
+    stroke="url(#brainGradient1)" 
+    stroke-width="2" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"/>
+  
+  <!-- Right hemisphere -->
+  <path d="M17 14a3 3 0 11-1 5.83M19.736 15.605a4 4 0 00.874-6.636M20.58 8.888A2.5 2.5 0 0017 5.5" 
+    stroke="url(#brainGradient2)" 
+    stroke-width="2" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"/>
+  
+  <!-- Center connection and arrow -->
+  <path d="M7 5.5a3 3 0 116 0m0 0a3 3 0 116 0" 
+    stroke="#8B5CF6" 
+    stroke-width="2" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"/>
+  
+  <path d="M12 5.5V16m0 0l-3-3m3 3l3-3" 
+    stroke="#EC4899" 
+    stroke-width="2" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"/>
+</svg>
