@@ -4,7 +4,7 @@
 
 ### View Live
 
-You can view the live application at [CBT Assistant Live](https://merry-twilight-d53a4c.netlify.app).
+You can view the live application at [CBT Assistant Live](https://cbt-assistant.netlify.app/).
 
 ## Overview
 
